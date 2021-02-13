@@ -3,10 +3,10 @@ Use Jupyter Notebook and Python to predict Bitcoin prices using Machine Learning
 ### Installation
 #### This project require Pythong 3.8 and following libraries installed:
 	
-	aaaa Numpy
-	-Pandas
-	-Mathplotlib
-	-Sklearn
+	1. Numpy
+	2. Pandas
+	3. Mathplotlib
+	4. Sklearn
 ### Run 
 	You need to have the software Jupyter Notebook installed so that you can run the program.
 ### Code
@@ -25,4 +25,4 @@ Use Jupyter Notebook and Python to predict Bitcoin prices using Machine Learning
 	-Low
 	-Adjusted Close
 	-Volume
-	**Negrito** Your target variable will be Open. 
+	** Your target variable will be Open. **
