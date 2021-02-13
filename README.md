@@ -1,7 +1,7 @@
 # bitcoin-price-prediction
 Use Jupyter Notebook and Python to predict Bitcoin prices using Machine Learning algorithms based on Linear Regression and Decision Tree
 ### Installation
-#### This project require Pythong 3.7 and following libraries installed:
+##### This project require Pythong 3.7 and following libraries installed:
 	1. Numpy 1.19.2
 	2. Pandas 1.1.3
 	3. Plotly 4.14.3
@@ -16,7 +16,7 @@ Use Jupyter Notebook and Python to predict Bitcoin prices using Machine Learning
 
 ### Features
 
-#### The features that you have: 
+##### The features that you have: 
 	-Open
 	-Close
 	-High
