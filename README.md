@@ -23,4 +23,4 @@ Use Jupyter Notebook and Python to predict Bitcoin prices using Machine Learning
 	-Low
 	-Adjusted Close
 	-Volume
-	Your target variable will be Close.
+###### Your target variable will be Close.
