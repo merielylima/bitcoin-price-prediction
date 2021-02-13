@@ -10,12 +10,12 @@ Use Jupyter Notebook and Python to predict Bitcoin prices using Machine Learning
 	You need to have the software Jupyter Notebook installed so that you can run the program.
 ### Code
 	The code is commented in PT-BR (portuguese brasil)
-	You will need to also have the BTC-USD.csv dataset file to run the code completely.
-	You can download or find in (https://finance.yahoo.com/quote/BTC-USD/history/)
 	All you would need to do is run the block of code each time. 
 
 ### Data 
 	The data will consist of 365 points with each datapoint have 5 features. 
+	You will need to also have the BTC-USD.csv dataset file to run the code completely.
+	You can downloader or find in [BTC-USD/history](https://finance.yahoo.com/quote/BTC-USD/history/)
 
 ### Features
 
