@@ -13,7 +13,7 @@ Use Jupyter Notebook and Python to predict Bitcoin prices using Machine Learning
 ##### If you choose run the .pynb you need to have the software Jupyter Notebook installed so that you can run the program.
 
 ### Data 
-#####  The data will consist of 725 (January 2019 to October 2020) points with each datapoint have 6 features. You will need to also have the BTC-USD.csv dataset file to run the code completely. You can download it from the archives or find it at: [BTC-USD/history](https://finance.yahoo.com/quote/BTC-USD/history/)
+##### You will need to also have the BTC-USD.csv dataset file to run the code completely. You can download it from the archives or find it at: [BTC-USD/history](https://finance.yahoo.com/quote/BTC-USD/history/). The data will consist of 725 (January 2019 to October 2020) points with each datapoint have 6 features.
 
 ### Features
 
