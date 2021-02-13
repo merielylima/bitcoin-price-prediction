@@ -14,8 +14,7 @@ Use Jupyter Notebook and Python to predict Bitcoin prices using Machine Learning
 	All you would need to do is run the block of code each time. 
 
 ### Data 
-
-#### The data will consist of 365 points with each datapoint have 5 features. 
+	The data will consist of 365 points with each datapoint have 5 features. 
 
 ### Features
 
@@ -26,4 +25,4 @@ Use Jupyter Notebook and Python to predict Bitcoin prices using Machine Learning
 	-Low
 	-Adjusted Close
 	-Volume
-##### Your target variable will be Open. 
+	# Your target variable will be Open. 
